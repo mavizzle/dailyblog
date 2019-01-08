@@ -11,3 +11,9 @@ Upon conversing with my **wonderful** partner Freya, I learned that her favorite
 
 * ![Harry Potter] (https://www.scholastic.com/content5/media/products/21/9780545010221_mres.jpg)
 * [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
+  1. The Fellowship of the Ring
+    + Book one
+  2. The Two Towers
+    + Book Two
+  3. The Return of the King
+    + Book Three 
